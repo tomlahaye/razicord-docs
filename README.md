@@ -1,3 +1,2 @@
-# razicord-docs
-# Razicord Documentation.
+# Documentation Razicord.
 - [Wiki](https://github.com/tomlahaye/razicord-docs/wiki)
